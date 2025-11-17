@@ -21,7 +21,7 @@ Use Case Diagram
 <img width="1255" height="1017" alt="image" src="https://github.com/user-attachments/assets/3535ebd1-9f89-4322-8591-8ac5958e19fd" />
 
 Class Diagram
-<img width="1206" height="745" alt="image" src="https://github.com/user-attachments/assets/97c8625a-00c8-4333-8f87-b7771c87c796" />
+<img width="1181" height="885" alt="image" src="https://github.com/user-attachments/assets/111d2e22-d1a4-4b43-9c64-3637ab76650d" />
 
 Activity Diagram
 <img width="1238" height="767" alt="image" src="https://github.com/user-attachments/assets/171ecb1e-c59f-4c6e-87a4-b22152df2dcd" />
